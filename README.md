@@ -31,13 +31,16 @@ pip install -r requirements.txt
    ```bash
    cd employee-performance-analysis
    ```
-3. Run the analysis scripts:
+3. **Run the Streamlit App**  
+   Once the dependencies are installed, run the analysis scripts using Streamlit with the following command:
    ```bash
-  streamlit run app.py
+   streamlit run app.py
 
-   ```
 ## Visualization of the Project
 ![Employee Performance Analysis Screenshot](https://github.com/RamcharanSinghRamavath/Employee-Performance-Analysis/blob/main/Assets/Screenshot%202025-01-21%20093046.png)
+
+![Employee Performance Analysis Dashboard](https://github.com/RamcharanSinghRamavath/Employee-Performance-Analysis/blob/main/Assets/Screenshot%202025-01-21%20093103.png)
+
 
 
 ## Contribution
