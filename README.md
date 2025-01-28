@@ -33,8 +33,12 @@ pip install -r requirements.txt
    ```
 3. Run the analysis scripts:
    ```bash
-   app.py
+  streamlit run app.py
+
    ```
+## Visualization of the Project
+![Employee Performance Analysis Screenshot](https://github.com/RamcharanSinghRamavath/Employee-Performance-Analysis/blob/main/Assets/Screenshot%202025-01-21%20093046.png)
+
 
 ## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request.
