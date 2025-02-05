@@ -15,7 +15,7 @@ The dataset contains extended employee performance and productivity data with va
 To replicate the analysis, you will need the following:
 
 - Python 3.8+
-- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `streamlit`
+- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `streamlit`, `joblib`
 
 You can install the required dependencies using the following command:
 ```bash
